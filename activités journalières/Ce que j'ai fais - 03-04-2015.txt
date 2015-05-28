@@ -1,0 +1,8 @@
+03/04/2015
+----------
+5 minutes : Mise à jour du plan
+15 minutes : Correction de la table TMC
+2h : optimisation du code javascript sur base de ce que j'ai appris
+1h : Diminution des accès à la base de données
+20 minutes : Contrôler la synchronisation DB depuis les paramètres
+4h : Mise à jour des min & max des sliders qui dépendent de la TMC

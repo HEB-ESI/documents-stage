@@ -1,0 +1,7 @@
+09/03/2015
+----------
+
+5 minutes : Mise à jour du plan
+15 minutes : Mises à jour de quelques tuples (SQL)
+4h filtrage, debuggage
+2h design de la vue

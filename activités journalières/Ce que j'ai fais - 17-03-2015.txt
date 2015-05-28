@@ -1,0 +1,5 @@
+17/03/2015
+----------
+5 minutes : Mise à jour du plan
+7h40 : Finalisation de la fenêtre product specification (cohérence avec la BD, ajout de prix manquants, etc.)
+

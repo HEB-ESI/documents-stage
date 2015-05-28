@@ -1,0 +1,5 @@
+11/03/2015
+----------
+2h : mise à jour de la BD (ajout des dimensions dans body type)
+6h : Filtrage (C#, Js, Linq) + debuggage
+ 

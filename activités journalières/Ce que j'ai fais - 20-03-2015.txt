@@ -1,0 +1,7 @@
+20/03/2015
+----------
+5 minutes : Mise à jour du plan
+3h ajout des prix pour les adaptations/options + mise en place dans la vue
+3h Bouton pour reset l'état de la visite (+ implémentation)
+1h Optimisation du code à certains endrois
+~1h : Vérification de la cohérence des données avec le catalogue + la BD

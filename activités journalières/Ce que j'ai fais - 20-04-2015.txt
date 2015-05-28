@@ -1,0 +1,5 @@
+20/04/2015
+----------
+1h : Affiner design fenêtre authentification
+6h : Redesign de l'affichage des voitures
+1h : Chercher les images des voitures

@@ -1,0 +1,6 @@
+22/04/2015
+----------
+6h : Implémentation des fonctions de la fenêtre client, "annuler", "ajouter", 
+"add society", "add person", supprimer client, etc.
+
+2h : Design de la fenêtre client

@@ -1,0 +1,195 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{DefinitionUSP}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bathelot}{B.}%
+     {Bertrand}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {Français}%
+  }
+  \strng{namehash}{BB1}
+  \strng{fullhash}{BB1}
+  \field{title}{Définition USP}
+  \verb{url}
+  \verb http://www.definitions-marketing.com/Definition-U-S-P
+  \endverb
+  \field{year}{2015}
+  \field{urlday}{15}
+  \field{urlmonth}{05}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{Stackoverflow}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jeff~Atwood}{J.~A.}%
+     {Joël~Spolsky}{J.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {Stack Exchange, Inc.}%
+  }
+  \strng{namehash}{JAJS1}
+  \strng{fullhash}{JAJS1}
+  \field{note}{Le site où j'ai énormément appris lorsque je bloquais sur
+  certains aspects techniques et spécificités des langages utilisés pour
+  l'application.}
+  \field{title}{Sans Titre}
+  \verb{url}
+  \verb http://stackoverflow.com
+  \endverb
+  \field{version}{2015.5.28.2614}
+  \field{year}{2015}
+\endentry
+
+\entry{OpenclassroomASPNETMVC}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hilaire}{H.}%
+     {Nicolas}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {Français}%
+  }
+  \strng{namehash}{HN1}
+  \strng{fullhash}{HN1}
+  \field{note}{La formation qui m'a permis d'apprendre les bases de la
+  technologie ASP .NET MVC5}
+  \field{title}{Apprendre ASP.NET MVC}
+  \verb{url}
+  \verb http://openclassrooms.com/courses/apprendre-asp-net-mvc
+  \endverb
+  \field{year}{2015}
+\endentry
+
+\entry{BookASPNETMVC5}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Freeman}{F.}%
+     {Adam}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
+  }
+  \list{publisher}{1}{%
+    {Apress; 5 edition (December 20, 2013)}%
+  }
+  \strng{namehash}{FA1}
+  \strng{fullhash}{FA1}
+  \field{isbn}{860-1404356568}
+  \field{pagetotal}{832}
+  \field{series}{Expert's Voice in ASP.Net}
+  \field{title}{Pro ASP.NET MVC 5}
+  \field{year}{2013}
+\endentry
+
+\entry{MSDN}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Microsoft}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{note}{Documentation officielle de l'ASP .NET MVC5. Je me suis souvent
+  renseigné sur ce site lorsque je cherchais les
+  méthodes/membres/constructeurs d'une classe particulière.}
+  \field{title}{ASP.NET MVC 5}
+  \verb{url}
+  \verb https://msdn.microsoft.com/en-us/library/dn448362%28v=vs.118%29.aspx
+  \endverb
+  \field{year}{unknow}
+\endentry
+
+\entry{jquery}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Martin}{M.}%
+     {Michel}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {Français}%
+  }
+  \list{organization}{1}{%
+    {Openclassroom}%
+  }
+  \strng{namehash}{MM1}
+  \strng{fullhash}{MM1}
+  \field{note}{C'est sur ce site où j'ai pu apprendre et perfectionner mes
+  compétences en jQuery. StackOverflow m'a beaucoup aidé aussi.}
+  \field{title}{Simplifiez vos développements JavaScript avec jQuery}
+  \verb{url}
+  \verb http://openclassrooms.com/courses/simplifiez-vos-developpements-javascr
+  \verb ipt-avec-jquery
+  \endverb
+  \field{day}{04}
+  \field{month}{05}
+  \field{year}{2015}
+  \field{urlday}{28}
+  \field{urlmonth}{05}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{web}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Data}{D.}%
+     {Refsnes}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
+  }
+  \list{organization}{1}{%
+    {Refsnes Data}%
+  }
+  \strng{namehash}{DR1}
+  \strng{fullhash}{DR1}
+  \field{note}{C'est sur ce site où j'ai pu perfectionner mes compétences en
+  HTML, CSS et SQL. StackOverflow m'a beaucoup aidé aussi.}
+  \field{title}{Simplifiez vos développements JavaScript avec jQuery}
+  \verb{url}
+  \verb http://www.w3schools.com/
+  \endverb
+  \field{urlday}{28}
+  \field{urlmonth}{05}
+  \field{urlyear}{2015}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

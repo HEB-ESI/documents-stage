@@ -1,0 +1,6 @@
+16/03/2015
+----------
+5 minutes : Mise à jour du plan
+1h débuggage
+2h codage de la vue product specification
+4h35 : Finalisation de la fenêtre product specification (Cohérence avec le catalogue qu'Alain m'a fourni)

@@ -1,0 +1,18 @@
+04/03/2015
+----------
+
+- 20 minutes : Mise à jour du plan
+- 1h de codage (Ajax)
+- 2h de codage (API pour accéder à la DB en C#)
+- 2h de formation (Linq)
+- 2h de codage (API pour accéder à la DB en Linq)
+- 20 minutes : correction d'erreurs de ma part dans la BD
+
+- 5 minutes : création d'une nouvelle table "VehicleCategory" et "VehicleCategory_Descr" 
+(Qui associent une catégorie à un véhicule. 
+Une voiture peut avoir plusieurs catégorie vu qu'on peut par exemple adapter un véhicule en "Utilitaire"
+Donc la clé primaire est composée : {cfamily, ccat}
+cfamily : Code de la famille
+ccat : Code de la catégorie (aussi, foreign key vers VehicleCategory_Descr qui décrit chaque catégories).)
+
+- 15 minutes : Remplissage dela table VehicleCategory_Descr.

@@ -1,0 +1,6 @@
+23/04/2015
+----------
+1h : Fin design fenêtre authentification
+2h : Design fenêtre customer + implémentation de fonctions + correction d'incohérences
+4h : Sauvegarde des clients dans l'objet listVisits
+40 minutes (à la maison) : mini-réunion pour les catégories de véhicules

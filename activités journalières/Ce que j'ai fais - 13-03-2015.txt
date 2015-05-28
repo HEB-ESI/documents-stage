@@ -1,0 +1,7 @@
+13/03/2015
+----------
+10 minutes : Mise à jour du plan
+30 minutes : Completer quelques données manquantes dans la BD
+3h : Ajout des adaptations disponibles pour chaque voiture (C#, Linq, JQuery, Ajax, JSON).
+3h : Ajout des options disponibles + prix
+1h : Ajout des prix manquants dans la BD

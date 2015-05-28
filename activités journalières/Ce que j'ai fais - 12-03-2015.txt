@@ -1,0 +1,8 @@
+12/03/2015
+----------
+5 minutes : Mise à jour du plan
+6h : Redesigner mon approche d'accrocher la DB à l'application. 
+(Cela prenait environs une bonne dizaine de secondes pour charger toutes les voitures, 
+désormais je tourne aux environs de 20 millisecondes, presque instantané ! )
+1h40 : Débuggage, refactoring
+ 

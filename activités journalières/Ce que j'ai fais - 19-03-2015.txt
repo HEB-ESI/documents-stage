@@ -1,0 +1,8 @@
+19/03/2015
+----------
+5 minutes : Mise à jour du plan
+3h fin fenêtre product specification
+1h Sauvegarder état de la visite
+1h Ajout des boutons pour sauvegarder, reset, charger une visite + leur implémentation
+2h correction de bug divers
+40 minutes : Affiner le design de la fenêtre product specification, suppression des animations superficielles
