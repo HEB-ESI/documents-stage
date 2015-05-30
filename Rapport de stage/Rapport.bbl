@@ -68,6 +68,33 @@
   \field{urlyear}{2015}
 \endentry
 
+\entry{QD}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {dirty\&action=history}{d.}%
+     {(Plusieurs}{P.}%
+     {auteurs) http://fr.wikipedia.org/w/index.php?title=Quick-and}{a.~h.-a.}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {Français}%
+  }
+  \list{organization}{1}{%
+    {Wikipédia}%
+  }
+  \strng{namehash}{dPaha1}
+  \strng{fullhash}{dPaha1}
+  \field{sortinit}{D}
+  \field{title}{Quick-and-dirty}
+  \verb{url}
+  \verb http://fr.wikipedia.org/w/index.php?title=Quick-and-dirty\&oldid=902407
+  \verb 18
+  \endverb
+  \field{urlday}{30}
+  \field{urlmonth}{05}
+  \field{urlyear}{2015}
+\endentry
+
 \entry{BookASPNETMVC5}{book}{}
   \name{author}{1}{}{%
     {{}%
