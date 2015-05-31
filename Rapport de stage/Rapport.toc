@@ -28,11 +28,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{6}
+\contentsline {chapter}{\numberline {3}Pr\IeC {\'e}sentation de l'entreprise}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Pr\IeC {\'e}sentation g\IeC {\'e}n\IeC {\'e}rale}{7}
+\contentsline {paragraph}{}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Pr\IeC {\'e}sentation de l'entreprise}{7}
+\contentsline {paragraph}{}{7}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{7}
 \defcounter {refsection}{0}\relax 
@@ -42,53 +42,41 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Pr\IeC {\'e}sentation de l'environnement}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{8}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Pr\IeC {\'e}sentation de l'application}{9}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Contexte}{9}
+\contentsline {chapter}{\numberline {4}Pr\IeC {\'e}sentation de l'environnement}{9}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{9}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{9}
+\contentsline {chapter}{\numberline {5}Pr\IeC {\'e}sentation de l'application}{10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}But}{9}
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{9}
+\contentsline {section}{\numberline {5.1}Contexte}{10}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Les b\IeC {\'e}n\IeC {\'e}ficiaires}{10}
+\contentsline {paragraph}{}{10}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Technologies utilis\IeC {\'e}es}{10}
+\contentsline {section}{\numberline {5.2}But}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{10}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.5}M\IeC {\'e}thodologie de travail}{11}
+\contentsline {subsection}{\numberline {5.2.1}But commercial}{11}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{11}
+\contentsline {subsection}{\numberline {5.2.2}But du projet}{11}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.6}L'application}{11}
+\contentsline {section}{\numberline {5.3}Les b\IeC {\'e}n\IeC {\'e}ficiaires}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{11}
+\contentsline {section}{\numberline {5.4}Technologies utilis\IeC {\'e}es}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}M\IeC {\'e}thodologie de travail}{12}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{12}
 \defcounter {refsection}{0}\relax 
@@ -96,30 +84,42 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{12}
+\contentsline {section}{\numberline {5.6}L'application}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Carnet de bord}{19}
+\contentsline {paragraph}{}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{18}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{19}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}\IeC {\'E}valuation du stage}{35}
+\contentsline {chapter}{\numberline {6}Carnet de bord}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Conclusion}{37}
+\contentsline {paragraph}{}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{37}
+\contentsline {chapter}{\numberline {7}\IeC {\'E}valuation du stage}{37}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{37}
+\contentsline {chapter}{\numberline {8}Conclusion}{39}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{39}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliographie}{37}
+\contentsline {paragraph}{}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliographie}{39}

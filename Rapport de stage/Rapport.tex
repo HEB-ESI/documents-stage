@@ -89,21 +89,9 @@ Concernant la gestion du projet, il fallait créer un planning sous Excel inclua
 \paragraph{}
 La méthode de travail utilisée était itérative; il m’avait été demandé initialement de coder certaines parties de l’application, à la suite de quoi une réunion organisée avec mes chefs de projet permettait de mettre en avant les éléments à supprimer, changer ou encore les fonctionnalités à rajouter.
 
-\paragraph{}
-Au bout de ces quatre mois, l'application est terminée, il manque cependant quelques fonctionnalités qui n'ont pas été développées car le projet n'était qu'un Proof Of Concept et non une application destinée à être utilisée.
-
-\chapter{Présentation générale}
-La présentation générale se divisera en trois grandes parties : 
-
-\begin{itemize}
-\item La première présentera l'entreprise.
-\item La seconde se chargera de décrire l'environnement de travail.
-\item Quant à la troisième, il s'agira d'une présentation de mon application.
-\end{itemize}
-
-\section{Présentation de l'entreprise}
+\chapter{Présentation de l'entreprise}
 La présentation de l'entreprise va se diviser en deux parties. La première se chargera d'expliquer qu'est-ce que TOYOTA et la seconde décrira l'entreprise où j'ai personnellement travaillé.
-\subsection*{TOYOTA en général}
+\section*{TOYOTA en général}
 
 \paragraph{}
 Toyota Motor Corporation est une multinationale dans le domaine de l'automobile, créée par Kiichiro Toyoda en 1933 et est basée au Japon.
@@ -112,7 +100,7 @@ Avec le temps, l'entreprise est devenue 1$^{er}$ constructeur automobile mondial
 \paragraph{}
 L'entreprise possède également une filiale en Europe qui s'occupe des principaux pays européens tel que la France et l'Allemagne. La Belgiqe n'est pas concernée par Toyota Europe. 
 
-\subsection*{TOYOTA Belgium}
+\section*{TOYOTA Belgium}
 \paragraph{}
 TOYOTA Belgium n'est pas une filiale de TOYOTA Europe mais plutôt d'Inchcape (Entreprise Londonienne possédant tout un réseau de garages).
 
@@ -131,7 +119,7 @@ D'un point de vue informatique, TOYOTA possède également un réseau extranet d
 	\item TLeads : Un système de gestion de leads.\footnote{Une occasion, un prospect.}
 	\item etc.
 \end{itemize}
-\section{Présentation de l'environnement}
+\chapter{Présentation de l'environnement}
 \paragraph{}
 J'ai développé mon application dans le département IT de TOYOTA Belgium avec un ordinateur portable fourni par l'entreprise. Un DELL dont le processeur est un Intel Core i5 cadencé à 2,60 GHz, 4 Go de RAM, écran Full HD, etc. 
 En résumé, un ordinateur très puissant qui n'a jamais eu de soucis à faire tourner mon programme ni n'importe quel autre.
@@ -140,10 +128,10 @@ En résumé, un ordinateur très puissant qui n'a jamais eu de soucis à faire t
 Au niveau applicatif, j'ai eu droit à une adresse e-mail (\textit{xxx.yyy@toyota.be}) qui était le moyen officiel de créer des réunions et envoyer des e-mails. 
 J'ai aussi eu droit à la suite Office (Word, Excel, PowerPoint, etc.), un accès VPN au réseau intranet de l'entreprise ainsi que l'environnement de développement intégré "Visual Studio" sur lequel j'ai développé mon application.
 
-\section{Présentation de l'application}
+\chapter{Présentation de l'application}
 La présentation de l'application se déroulera en plusieurs étapes : tout d'abord, une mise en contexte suivi du but de l'application, les technologies utilisées pour la réalisation de l'application et enfin, la présentation de l'application en soi.
 
-\subsection{Contexte}
+\section{Contexte}
 \paragraph{}
 Lors d'évènements tels que les journées portes ouvertes, les salons de l'auto, ou simplement lors de visites showroom, de nombreuses personnes viennent pour découvrir la marque. 
 Il serait dès lors très avantageux de capter les intérêts de ces personnes en vue de les satisfaire au cas par cas en leur apportant de plus amples informations sur les modèles de la gamme correspondant le plus à leurs besoins.
@@ -154,32 +142,34 @@ En outre, Il serait également intéressant de pouvoir obtenir certaines coordon
 \paragraph{}
 L'application que je développerai devra donc être destinée aux tablettes pour ainsi permettre au vendeur d'aller vers le visiteur et lui montrer tout ce qui correspond à ses intérêts.
 
-\subsection{But}
+\section{But}
+\subsection{But commercial}
 \paragraph{}
 Le but de l'application est bien évidemment de vendre davantage de voitures TOYOTA. Dans un pays comme la Belgique où la concurrence est telle que de nombreuses marques de voitures se disputent les parts du marché, n'importe quelle opportunité est à prendre au sérieux. Idéalement, le but de l'application serait d'augmenter le nombre de ventes d'au moins un véhicule par mois et par concessionnaire.
-
+\subsection{But du projet}
 \paragraph{}
-Il existe cependant un second but à mon projet. En effet, ce que je développe est un Proof Of Concept\footnote{Aussi appelé "preuve de concept" ou "démonstration de faisabilité".}. Il y avait donc plusieurs autre buts, parmi eux :
-
+Il existe cependant d'autres buts à mon projet. En effet, ce que je développe est un Proof Of Concept\footnote{Aussi appelé "preuve de concept" ou "démonstration de faisabilité".}. 
+Donc, parmi les buts, il y a :
 \begin{itemize}
+\paragraph{}
 \setlength{\itemsep}{10pt} %Ajoute de l'espace entre les items
 \item Tester si la technologie choisie assure un bon fonctionnement de l'application malgré les problématiques liées à l'infrastructure de l'établissement où elle sera utilisée. Par exemple, il était question de savoir si la technologie utilisée permettait de pouvoir assurer le fonctionnement de l'application malgré la perte de connexion internet si celle-ci venait à devenir instable ou subitement inexistante.
 
 \item Un Proof Of Concept permet d'avoir un premier jet de l'application en développant très rapidement un brouillon de celle-ci (à tel point qu'à quelques jours de la fin de mon stage, j'ai dû passer à de la programmation "Quick-And-Dirty"\footnote{"Une solution quick-and-dirty est une solution brute ou une programmation imparfaite, inélégante ou parfois inadéquate qui sert à résoudre ou à masquer les problèmes mais qui est généralement plus rapide et plus facile à mettre en œuvre que la solution appropriée. Ces solutions quick-and-dirty ont le plus souvent pour but de contourner les problèmes plutôt que de résoudre la cause séminale de celui-ci."\cite{QD} } pour implémenter deux grosses fonctionnalités demandées à quelques jours de la présentation de l'application au département commercial). Grâce à cela, il est possible d'aller plus profondément dans l'analyse du projet.
 
-\item Montrer rapidement l'application, du moins un brouillon, une idée de celle-ci, afin d'avoir des retours immédiats des utilisateurs et pouvoir prendre des décisions qui, sans POC, auraient coûté très cher.
+\item Développer rapidement l'application, du moins un brouillon, une idée de celle-ci, afin d'avoir des retours immédiats des utilisateurs et pouvoir prendre des décisions qui, sans POC, auraient coûté très cher.
 
 \end{itemize}
 
-\subsection{Les bénéficiaires}
+\section{Les bénéficiaires}
 \paragraph{}
 L'application est destinée à être utilisée par les vendeurs présent sur les stand lors d'évènements tels que des journées portes ouvertes, le salon de l'auto ou les visites showroom.
 
-\subsection{Technologies utilisées}
+\section{Technologies utilisées}
 \paragraph{}
 L'application devait être développée en ASP .NET MVC5 et les langages étaient l'HTML5, le CSS3, le JavaScript (côté client) et le C\# (côté serveur). La raison de vouloir faire une application Web plutôt qu'une "vraie" est le désir rendre celle-ci multi-OS en évitant ainsi la multiplication du code en développant l'application sur Android, iOS et Windows.
 
-\subsection{Méthodologie de travail}
+\section{Méthodologie de travail}
 \paragraph{}
 Il m'a été demandé de tenir un planning sous Excel retraçant l'ensemble de mes activités, la charge de travail estimée de celles-ci ainsi que leur charge de travail réelle.
 Cela permettait notamment de savoir où j'en étais dans l'avancement du projet par rapport au temps dont je disposais, savoir si je devais accélérer le rythme ou pas.
@@ -190,7 +180,7 @@ La méthode de travail utilisée était itérative; il m’avait été demandé 
 \paragraph{}
 Cette procédure de travail constitue un réel avantage car elle permet d’avoir un retour immédiat des utilisateurs  laissant notamment la possibilité de modifier l’application en fonction de leur convenance. 
 
-\subsection{L'application}
+\section{L'application}
 \paragraph{}
 L'application se divise en trois parties :
 
@@ -200,7 +190,7 @@ L'application se divise en trois parties :
 \item La fenêtre Customer
 \end{itemize}
 
-\subsubsection*{Home}
+\subsection*{Home}
 \paragraph{}
 Après authentification, il s'agit du point d'entrée de l'application, c'est dans cette fenêtre que sont affichés toutes les visites en cours. Elles pourront être sauvegardées, effacées, en créer et sauter de l'une à l'autre instantanément.
 (voir ci-dessous, figure \ref{image_home})
@@ -219,7 +209,7 @@ Cette fonctionnalité n'a pas pu être réalisée par manque de temps, nous pouv
 Cette fenêtre affiche également une barre de statut dans laquelle sont affichés des informations concernant le vendeur authentifié. Des informations telles que le nom, le prénom et le concessionnaire auquel appartient le vendeur. 
 Le choix de la langue d'affichage de l'application y figure aussi.
 
-\subsubsection*{Product Specification}
+\subsection*{Product Specification}
 \paragraph{}
 Fenêtre principale de l'application, celle-ci permet de définir les intérêts du visiteur. Elle est divisée en plusieurs sous-fenêtres dont : 
 
@@ -281,7 +271,7 @@ Pour l'ouvrir, il suffit d'appuyer n'importe quel modèle.
 
 \end{itemize}
 
-\subsubsection*{Customer}
+\subsection*{Customer}
 \paragraph{}
 Troisième et dernière fenêtre de l'application, elle est essentielle pour la prise de coordonnées à la volée.
 Il arrive aussi que certaines personnes viennent juste pour s'informer en ne laissant aucune coordonnée. Dans la plupart des cas, ce genre de visite ne sera pas enregistré (Ci-dessous, figure \ref{image_customer_3}).
